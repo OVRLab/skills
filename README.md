@@ -15,5 +15,3 @@
 |                   | Introduction to DevOps by IBM                               | Coursera     | [Go to Course](https://www.coursera.org/learn/intro-to-devops)                                      |                 |
 | **Kotlin**        | Kotlin for Java Developers by JetBrains                     | Coursera     | [Go to Course](https://www.coursera.org/learn/kotlin-for-java-developers)                           |                 |
 |                   | The Complete Kotlin Developer Course                        | Udemy        | [Go to Course](https://www.udemy.com/course/kotlin-course/)                                         | ([Baeldung][1]) |
-
-[1]: https://www.baeldung.com/sql/database-table-column-naming-conventions?utm_source=chatgpt.com "Database, Table, and Column Naming Conventions Baeldung on SQL"
